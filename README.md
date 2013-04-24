@@ -1,2 +1,3 @@
 Aclass
+codename: ClassOnline
 ======
